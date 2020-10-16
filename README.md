@@ -7,3 +7,5 @@
 <a href="https://github.com/q-Amyr-p">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-Amyr-p" />
 </a>
+
+&theme=dracula
